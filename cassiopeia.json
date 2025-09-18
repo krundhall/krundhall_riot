@@ -1,0 +1,10 @@
+{
+  "global": {
+    "default_region": "EUW"
+  },
+  "plugins": {
+    "riotapi": {
+      "api_key": "RGAPI-065fb448-0a61-4018-9539-037ecf04ca7c"
+    }
+  }
+}
